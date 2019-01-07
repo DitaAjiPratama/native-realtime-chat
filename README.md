@@ -2,7 +2,7 @@
 A Super Simple Native RealTime Chat With PHP (mysqli), MariaDB (MySQL), and JS. 
 
 Requirement:
-1. Web Server (Apache, Nginx, Lighttpd)
+1. Web Server (Apache, Nginx, or Lighttpd)
 2. MariaDB or MySQL
 3. PHP with msqli
 
